@@ -1,0 +1,14 @@
+﻿^ContentPage {
+    background-color: lightslategray;
+}
+
+.containerLabel {
+    font-size: large;
+    text-align: center;
+    color: orange;
+    background-color: green;
+    margin: 50;
+    padding: 30;
+    border: solid 10px;
+    border-radius: 2em;
+}
